@@ -1,0 +1,25 @@
+{
+  "name": "game-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisdante9/game-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louisdante9/game-app/issues"
+  },
+  "homepage": "https://github.com/louisdante9/game-app#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.2",
+    "prompt": "^1.0.0"
+  }
+}
